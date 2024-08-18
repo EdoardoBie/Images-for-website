@@ -1,0 +1,17 @@
+# Ignore thumbnails or temporary files
+*.tmp
+*.bak
+*.swp
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore node_modules folder if using any JavaScript tooling
+node_modules/
+
+# Ignore any log files
+*.log
+
+# Ignore IDE-specific files (e.g., VSCode)
+.vscode/
+.idea/
